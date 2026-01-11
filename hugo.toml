@@ -1,4 +1,4 @@
-baseurl = "http://localhost:1313/"
+baseurl = "https://whiths600.github.io/"
 languageCode = "zh-cn"
 theme = "hugo-theme-stack"
 title = "森林游乐场"
